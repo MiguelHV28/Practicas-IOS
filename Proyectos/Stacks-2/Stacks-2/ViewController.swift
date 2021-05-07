@@ -2,7 +2,7 @@
 //  ViewController.swift
 //  Stacks-2
 //
-//  Created by Marco Antonio Hernández Alba on 18/03/21.
+//  Created by Miguel Angel Hernandez Venegas on 18/03/21.
 //
 
 import UIKit

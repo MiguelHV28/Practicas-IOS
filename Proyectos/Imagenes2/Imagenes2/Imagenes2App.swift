@@ -2,7 +2,7 @@
 //  Imagenes2App.swift
 //  Imagenes2
 //
-//  Created by Marco Antonio Hernández Alba on 05/03/21.
+//  Created by Miguel Angel Hernandez Venegas on 05/03/21.
 //
 
 import SwiftUI
