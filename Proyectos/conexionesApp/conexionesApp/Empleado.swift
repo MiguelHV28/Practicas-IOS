@@ -2,7 +2,7 @@
 //  Empleado.swift
 //  conexionesApp
 //
-//  Created by Marco Antonio Hernández Alba on 12/03/21.
+//  Created by Miguel Angel Hernandez Venegas on 12/03/21.
 //
 
 import Foundation

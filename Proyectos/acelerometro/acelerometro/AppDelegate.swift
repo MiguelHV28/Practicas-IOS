@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  conexionesApp
+//  acelerometro
 //
-//  Created by Miguel Angel Hernandez Venegas on 12/03/21.
+//  Created by Miguel Angel Hernandez Venegas on 04/05/21.
 //
 
 import UIKit

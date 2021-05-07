@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  conexionesApp
 //
-//  Created by Marco Antonio Hernández Alba on 12/03/21.
+//  Created by MMiguel Angel Hernandez Venegas on 12/03/21.
 //
 
 import UIKit

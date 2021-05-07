@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  Autolayout-y-Constraints-1
+//  acelerometro
 //
-//  Created by Miguel Angel Hernandez Venegas on 17/03/21.
+//  Created by Marco Antonio Hernández Alba on 04/05/21.
 //
 
 import UIKit
