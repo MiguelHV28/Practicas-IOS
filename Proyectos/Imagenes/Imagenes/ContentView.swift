@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Imagenes
 //
-//  Created by Marco Antonio Hernández Alba on 26/02/21.
+//  Created by Miguel Angel Hernandez Venegas on 26/02/21.
 //
 
 import SwiftUI

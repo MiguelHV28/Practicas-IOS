@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  CiclodeVidaViewController
 //
-//  Created by Marco Antonio Hernández Alba on 29/03/21.
+//  Created by Miguel Angel Hernandez Venegas on 29/03/21.
 //
 
 import UIKit
