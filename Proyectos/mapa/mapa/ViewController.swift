@@ -17,7 +17,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         
         
-        let londres = Ciudad(title: "Londres", coordinate: CLLocationCoordinate2D(latitude: 51.507222, longitude: -0.1275), info: "Capital de Inglaterra")
+        let londres = Ciudad(title: "Madrid", coordinate: CLLocationCoordinate2D(latitude: 40.4167, longitude: -3.70325), info: "Capital de Espana")
         
         let cdmx = Ciudad(title: "CDMX", coordinate: CLLocationCoordinate2D(latitude: 19.4978, longitude: -99.1269), info: "Capital de la República Mexicana")
         
